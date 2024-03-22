@@ -9,7 +9,7 @@ Building a **show/hide-Clock** app.
 - Start up the app using `npm start`
 </details>
 
-## Component Life Cycle topics in this ###module
+## Component Life Cycle topics in this ##module
 
 - Mounting Phase
   - constructor()
